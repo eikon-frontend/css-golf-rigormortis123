@@ -1,2 +1,28 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #62306d, #f7ec7d  */
+* {
+    box-sizing: border-box;
+}
+
+.purple {
+    display: flex;
+    align-items: flex-end;
+    background-color: #62306d;
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+}
+
+.yellow {
+    background-color: #f7ec7d;
+    width: 100px;
+    height: 100px;
+    border-bottom-left-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+}
+
+.up {
+    display: flex;
+    align-self: flex-start;
+    transform: rotate(180deg);
+}

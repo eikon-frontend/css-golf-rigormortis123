@@ -1,2 +1,15 @@
 /* 🦊 Créez vos styles ici */
 /* Colors: #5d3a3a, #b5e0ba  */
+
+.brown {
+    background-color: #5d3a3a;
+    width: 400px;
+    height: 300px;
+
+}
+
+.green {
+    background-color: #b5e0ba;
+    height: 200px;
+    width: 200px;
+}
